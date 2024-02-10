@@ -1,6 +1,5 @@
-ghc etc/Main.hs
-cp -r etc/Main /bin
+cd etc
+ghc Main.hs
+cp -r Main /bin
 cp /bin/Main /bin/hfetch
 
-cd ..
-rm -rf hfetch
