@@ -14,4 +14,6 @@ sudo bash install.sh
 - ghc
 - Unix system
 
+### Screenshots:
+
 ![image](https://github.com/user-attachments/assets/b15deee5-b01e-4a83-ab8b-28a502a4d6cd)
