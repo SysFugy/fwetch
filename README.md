@@ -1,7 +1,7 @@
 # hfetch
-hfetch - Beta 1.0
+hfetch - Haskell Fetch v2.0
 
-Install:
+### Install:
 
 ```bash
 git clone https://github.com/SysFugy/hfetch
@@ -9,4 +9,9 @@ cd hfetch
 sudo bash install.sh
 ```
 
-![изображение](https://github.com/SysFugy/hfetch/assets/149673181/fcdad833-4c24-4121-8853-5aa062fb5ebd)
+### Dependences:
+
+- ghc
+- Unix system
+
+![image](https://github.com/user-attachments/assets/b15deee5-b01e-4a83-ab8b-28a502a4d6cd)
