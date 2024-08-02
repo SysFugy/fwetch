@@ -1,6 +1,10 @@
 # Fwetch v2.1
 fwetch - Haskell Fetch rewrited in C
 
+> **Warning**
+>
+> Correctly works only in *BSD systems
+
 ### Dependences:
 
 - clang
