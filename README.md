@@ -1,8 +1,7 @@
 # Fwetch v2.1
 fwetch - Haskell Fetch rewrited in C
 
-> ![Warning]
->
+> ![WARNING]
 > Correctly works only in *BSD systems
 
 ### Dependences:
