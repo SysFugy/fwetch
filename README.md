@@ -20,4 +20,5 @@ make
 
 ### Screenshots:
 
-![image](https://github.com/user-attachments/assets/1ef69ff9-783d-45d0-bef5-ad1cdd0f8da2)
+![image](https://github.com/user-attachments/assets/0348ce9d-34ad-4f9a-827e-45c4c3aa174d)
+
