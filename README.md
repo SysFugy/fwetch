@@ -1,19 +1,25 @@
-# hfetch
-hfetch - Haskell Fetch v2.0
+# Fwetch v2.1
+fwetch - Haskell Fetch rewrited in C
+
+### Dependences:
+
+- clang
+- make
 
 ### Install:
 
 ```bash
-git clone https://github.com/SysFugy/hfetch
+git clone https://github.com/SysFugy/fwetch
 cd hfetch
-sudo bash install.sh
+make
 ```
 
-### Dependences:
+### Optional:
 
-- ghc
-- Unix system
+```bash
+cp fwetch /usr/local/bin
+```
 
 ### Screenshots:
 
-![image](https://github.com/user-attachments/assets/b15deee5-b01e-4a83-ab8b-28a502a4d6cd)
+![image](https://github.com/user-attachments/assets/1ef69ff9-783d-45d0-bef5-ad1cdd0f8da2)
