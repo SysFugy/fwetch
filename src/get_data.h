@@ -8,6 +8,8 @@ char* get_os();
 char* get_kernel();
 char* get_shell();
 char* get_wm();
+char* get_server();
+char* get_init();
 
 #endif
 
