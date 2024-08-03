@@ -1,8 +1,5 @@
-# Fwetch v2.1
+# Fwetch v2.2
 fwetch - Haskell Fetch rewrited in C
-
-> [!WARNING]
-> Correctly works only in *BSD systems
 
 ### Dependences:
 
@@ -19,5 +16,6 @@ make
 
 ### Screenshots:
 
-![image](https://github.com/user-attachments/assets/e91905be-923f-47fb-b58e-32b1b28cd264)
+![image](https://github.com/user-attachments/assets/f1df57bb-5484-4407-b970-385365c8c3da)
+
 
