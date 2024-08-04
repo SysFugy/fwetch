@@ -105,12 +105,7 @@ char* get_shell() {
 }
 
 char* get_wm() {
-    const char* vars[] = {"DESKTOP_SESSION", "XDG_CURRENT_DESKTOP", "GDMSESSION", "XDG_SESSION_DESKTOP"};
-    for (size_t i = 0; i < sizeof(vars) / sizeof(vars[0]); ++i) {
-        char* wm = getenv(vars[i]);
-        if (wm) return strdup(wm);
-    }
-    return strdup("Unknown");
+    return get_info("xprop -root _NET_WM_NAME 2>/dev/null | sed -n 's/.*= \"\\(.*\\)\"/\\1/p'", "Unknown");
 }
 
 char* get_server() {
