@@ -1,4 +1,4 @@
-# Fwetch v2.2
+# Fwetch v2.3
 fwetch - Haskell Fetch rewrited in C
 
 ### Dependences:
